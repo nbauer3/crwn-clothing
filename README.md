@@ -1,3 +1,13 @@
+# crwn-clothing
+
+React E-Commerce Application
+
+clone GitHub Repo `git clone https://github.com/nbauer3/crwn-clothing.git`
+
+Start Application with yarn start
+
+---------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
