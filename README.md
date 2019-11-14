@@ -4,7 +4,9 @@ React E-Commerce Application
 
 clone GitHub Repo `git clone https://github.com/nbauer3/crwn-clothing.git`
 
-Start Application with yarn start
+Navigate into directory `cd crwn-clothing`
+
+Start Application with `yarn start`
 
 ---------------------------------------------------------------------------------------------------
 
